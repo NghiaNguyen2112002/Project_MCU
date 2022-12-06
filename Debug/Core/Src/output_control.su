@@ -1,0 +1,10 @@
+../Core/Src/output_control.c:11:6:Light_1_Red	8	static
+../Core/Src/output_control.c:15:6:Light_1_Amber	8	static
+../Core/Src/output_control.c:19:6:Light_1_Green	8	static
+../Core/Src/output_control.c:24:6:Light_2_Red	8	static
+../Core/Src/output_control.c:28:6:Light_2_Amber	8	static
+../Core/Src/output_control.c:32:6:Light_2_Green	8	static
+../Core/Src/output_control.c:37:6:Light_P_Off	8	static
+../Core/Src/output_control.c:41:6:Light_P_Red	8	static
+../Core/Src/output_control.c:46:6:Light_P_Amber	8	static
+../Core/Src/output_control.c:50:6:Light_P_Green	8	static
